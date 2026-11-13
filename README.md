@@ -1,3 +1,20 @@
+<!-- readme-refresh 2026-11 -->
+<div align="center">
+
+# 📊 NIFTY 50 Dashboard
+
+**Fundamentals and price history for all 50 NIFTY constituents in Power BI**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/yfinance-720E9E?style=for-the-badge&logo=yahoo&logoColor=white" alt="yfinance" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+</div>
+
+## ✨ Highlights
+
+- Python pipeline downloads fundamentals and price history
+- Power BI dashboard
+
+<!-- body -->
 Here is a README file for your data fetching script and Power BI dashboard project:
 
 ***
@@ -126,3 +143,7 @@ Open source under the MIT License.
 ***
 
 This README clearly explains your script, dependencies, usage, and the connection to your Power BI dashboard project. Let me know if you want to add more details about the dashboard setup or visuals!
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
